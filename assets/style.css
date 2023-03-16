@@ -1,12 +1,13 @@
 main {
-    margin: 30px
+    margin: 100px 50px 80px 50px;
 }
 body {
-    margin: 0px;
+    margin: 0px -50px 0px 0px;
 }
-header {
+/* header {
     background-color: rgb(87, 84, 84);
-}
+    margin: -30px;
+} */
 
 footer {
     background-color: rgb(87, 84, 84);
@@ -17,7 +18,9 @@ h3 {
     margin: 0px
 }
 #Navigation {
-    height: 100px;
+    background-color: rgb(87, 84, 84);
+    height: 120px;
+    margin: -30px;
     align-items: center;
     display: flex;
     flex-direction: row;
