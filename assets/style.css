@@ -23,7 +23,7 @@ h3 {
 #Navigation {
     background-color: rgb(87, 84, 84);
     height: 120px;
-    margin: -30px 0px -30px -30px;
+    margin: -30px 0px -30px -55px;
     align-items: center;
     display: flex;
     flex-direction: row;
@@ -60,7 +60,7 @@ h3 {
 
 .text {
     overflow-y: scroll;
-    height: 215px;
+    height: 360px;
     font-style: italic;
 }
 
