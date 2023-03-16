@@ -1,0 +1,63 @@
+main {
+    margin: 30px
+}
+body {
+    margin: 0px;
+}
+header {
+    background-color: rgb(87, 84, 84);
+}
+
+footer {
+    background-color: rgb(87, 84, 84);
+    margin: -30px;
+}
+
+h3 {
+    margin: 0px
+}
+#Navigation {
+    height: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.button {
+    padding: 0px 15px 15px 15px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.hero {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+}
+
+.nothing {
+    color: rgb(87, 84, 84);
+}
+
+.text {
+    overflow-y: scroll;
+    height: 215px;
+    font-style: italic;
+}
+
+.small {
+    margin: 0px 10px 0px 0px
+}
